@@ -45,5 +45,9 @@ The notebook walks through the complete workflow including text preprocessing, f
 
 1. Download or clone this repository
 
-```bash
-git clone https://github.com/kotame01/Q-A-ChatBot.git
+```bash git clone https://github.com/kotame01/Q-A-ChatBot.git ```
+
+---
+## 📚 Reference Website
+1. https://www.geeksforgeeks.org/data-science/building-a-rag-application/
+
